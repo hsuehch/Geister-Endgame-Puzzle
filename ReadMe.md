@@ -5,7 +5,7 @@ For more details, please refer to our [paper](https://www.sciencedirect.com/scie
 ## Environment (64-bit systems required)
 
 PS. The help messages have English and Japanese versions, while the former is the default.
-If your PC supports Japanese characters and you want to see Japanese help messages, please change the `0` on line 27 of `IncludeLib.h` to `1`. i.e., ``#define OUTPUT_JP_MESSAGE 1
+If your PC supports Japanese characters and you want to see Japanese help messages, please change the `0` on line 27 of `IncludeLib.h` to `1`. i.e., ``#define OUTPUT_JP_MESSAGE 1''
 
 ### Windows
 

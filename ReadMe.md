@@ -128,12 +128,12 @@ You can find the GUI in the `viewer_and_generated_puzzles` folder.
 ## Citation
 
 ```
-@article{Hsueh2024GeisterEndgamePuzzle,
-  title = {Proposal and generation of endgame puzzles for an imperfect information game Geister},
+@article{Hsueh2025GeisterEndgamePuzzle,
+  title = {Proposal and generation of endgame puzzles for an imperfect information game {Geister}},
   author = {Chu-Hsuan Hsueh and Takefumi Ishii and Tsuyoshi Hashimoto and Kokolo Ikeda},
   journal = {Entertainment Computing},
-  year = {2024},
-  vol = {Pre-press}
+  year = {2025},
+  vol = {52}
   doi = {https://doi.org/10.1016/j.entcom.2024.100736},
   url = {https://www.sciencedirect.com/science/article/pii/S1875952124001046},
 }
